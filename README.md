@@ -35,9 +35,9 @@ Theory A combinational circuit is a circuit in which the output depends on the p
 
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: Yuvan M
+Developed by: VEERARAGAVAN V
 
-RegisterNumber:212223240188
+RegisterNumber:212223230237
 ```
 module combinationalcircuit(A,B,C,D,F1);
 input A,B,C,D;
